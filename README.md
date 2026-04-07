@@ -20,7 +20,7 @@ I'm a focused iOS builder with deep expertise in Swift and Objective-C. My work 
 - **Recent focus** (last 90 days): circlelayout, uicollectionview, uicollectionviewlayout, wheellayout, cardlayout
 - **Collaboration style**: 98.8% builder through direct commits across 11% contribution diversity
 - **Member since**: 2014
-- **Public organization**: [老司机技术周报](https://github.com/old-driver)
+- **Public organization**: [老司机技术周报](https://github.com/SwiftOldDriver)
 
 ---
 
@@ -56,35 +56,10 @@ I'm a focused iOS builder with deep expertise in Swift and Objective-C. My work 
 
 ## Featured Projects
 
-### 🚀 [CPCollectionViewKit](https://github.com/ParsifalC/CPCollectionViewKit)
-![Stars](https://img.shields.io/github/stars/ParsifalC/CPCollectionViewKit?style=flat-square&color=58A6FF)  
+### 🚀 [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
+![Stars](https://img.shields.io/github/stars/SwiftOldDriver/iOS-Weekly?style=flat-square&color=58A6FF)  
 **Swift** • 182 stars  
-A powerful collection of modern UICollectionView layouts and transitions. The go-to kit for circular, card, and wheel-style interfaces.
-
-### 🛠️ [NetEaseBaymaxDemo](https://github.com/ParsifalC/NetEaseBaymaxDemo)
-![Stars](https://img.shields.io/github/stars/ParsifalC/NetEaseBaymaxDemo?style=flat-square&color=58A6FF)  
-**Objective-C** • 44 stars  
-A learning-focused recreation of NetEase's Baymax health monitoring tool.
-
-### 🌀 [CPCollectionViewWheelLayoutSwift](https://github.com/ParsifalC/CPCollectionViewWheelLayoutSwift)
-![Stars](https://img.shields.io/github/stars/ParsifalC/CPCollectionViewWheelLayoutSwift?style=flat-square&color=58A6FF)  
-**Swift** • 15 stars  
-Elegant wheel-style layout for UICollectionView. Now integrated into CPCollectionViewKit.
-
-### 🌀 [CPCollectionViewWheelLayout](https://github.com/ParsifalC/CPCollectionViewWheelLayout)
-![Stars](https://img.shields.io/github/stars/ParsifalC/CPCollectionViewWheelLayout?style=flat-square&color=58A6FF)  
-**Objective-C** • 18 stars  
-Original wheel layout implementation for UICollectionView.
-
-### 🛡️ [UncaughtExceptions](https://github.com/ParsifalC/UncaughtExceptions)
-![Stars](https://img.shields.io/github/stars/ParsifalC/UncaughtExceptions?style=flat-square&color=58A6FF)  
-**Objective-C** • 4 stars  
-Robust unhandled exception handler based on proven patterns.
-
-### 🎨 [CPKeezyView](https://github.com/ParsifalC/CPKeezyView)
-![Stars](https://img.shields.io/github/stars/ParsifalC/CPKeezyView?style=flat-square&color=58A6FF)  
-**Swift** • 2 stars  
-Custom view inspired by the Keezy musical instrument app.
+Discussing iOS knowledge & new weekly.
 
 ---
 
