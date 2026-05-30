@@ -147,7 +147,7 @@ Smart routing hub for multiple AI providers (OpenAI, Claude, Gemini) with automa
 <tr>
 <td>
 
-#### 📰 [iOS Weekly](https://github.com/ParsifalC/iOS-Weekly)
+#### 📰 [iOS Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
 
 **老司机技术 iOS 周报**
 
