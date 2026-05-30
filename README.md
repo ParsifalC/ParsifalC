@@ -155,7 +155,7 @@ Weekly curated iOS development news, tips, and tutorials from the Swift Old Driv
 
 `Swift` `iOS` `Weekly` `Community`
 
-![Stars](https://img.shields.io/github/stars/ParsifalC/iOS-Weekly?style=social)
+![Stars](https://img.shields.io/github/stars/SwiftOldDriver/iOS-Weekly?style=social)
 
 </td>
 <td>
