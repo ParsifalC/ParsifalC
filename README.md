@@ -119,15 +119,15 @@ Hangzhou, China · [老司机技术](https://github.com/SwiftOldDriver)
 <tr>
 <td width="50%">
 
-#### 🎙️ [Roundtable](https://github.com/ParsifalC/roundtable)
+#### 🛰️ [Moyu VPS Deploy](https://github.com/MoyuFamily/moyu-vps-deploy)
 
-**AI 多 Agent 圆桌讨论工具**
+**多 VPS Fleet 编排与部署平台**
 
-Multiple AI agents discuss topics from different perspectives, generating insightful multi-angle analysis. Supports Hermes, ClawHub, and PyPI distribution.
+Unified fleet orchestration for Pterodactyl and SSH/systemd hosts, covering Core Runtime delivery, workload lifecycle, and proxy control.
 
-`Python` `AI` `Multi-Agent` `Open Source`
+`Python` `VPS` `Pterodactyl` `systemd`
 
-![Stars](https://img.shields.io/github/stars/ParsifalC/roundtable?style=social)
+![Stars](https://img.shields.io/github/stars/MoyuFamily/moyu-vps-deploy?style=social)
 
 </td>
 <td width="50%">
@@ -147,19 +147,6 @@ Smart routing hub for multiple AI providers (OpenAI, Claude, Gemini) with automa
 <tr>
 <td>
 
-#### 📰 [iOS Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
-
-**老司机技术 iOS 周报**
-
-Weekly curated iOS development news, tips, and tutorials from the Swift Old Driver community.
-
-`Swift` `iOS` `Weekly` `Community`
-
-![Stars](https://img.shields.io/github/stars/SwiftOldDriver/iOS-Weekly?style=social)
-
-</td>
-<td>
-
 #### ⚙️ [codex-flow](https://github.com/ParsifalC/codex-flow)
 
 **Codex 多 Agent 智能编排**
@@ -169,21 +156,6 @@ Capability-aware Codex orchestration that adaptively routes Parent/Worker models
 `Codex` `Multi-Agent` `Python` `Telemetry`
 
 ![Stars](https://img.shields.io/github/stars/ParsifalC/codex-flow?style=social)
-
-</td>
-</tr>
-<tr>
-<td>
-
-#### 🛰️ [Moyu VPS Deploy](https://github.com/MoyuFamily/moyu-vps-deploy)
-
-**多 VPS Fleet 编排与部署平台**
-
-Unified fleet orchestration for Pterodactyl and SSH/systemd hosts, covering Core Runtime delivery, workload lifecycle, and proxy control.
-
-`Python` `VPS` `Pterodactyl` `systemd`
-
-![Stars](https://img.shields.io/github/stars/MoyuFamily/moyu-vps-deploy?style=social)
 
 </td>
 <td>
@@ -197,6 +169,34 @@ Production-hardened Telegram relay for one-time OTP, constrained auto-confirmati
 `Python` `Telegram` `Telethon` `Docker`
 
 ![Stars](https://img.shields.io/github/stars/MoyuFamily/moyu-tg-relay?style=social)
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🎙️ [Roundtable](https://github.com/ParsifalC/roundtable)
+
+**AI 多 Agent 圆桌讨论工具**
+
+Multiple AI agents discuss topics from different perspectives, generating insightful multi-angle analysis. Supports Hermes, ClawHub, and PyPI distribution.
+
+`Python` `AI` `Multi-Agent` `Open Source`
+
+![Stars](https://img.shields.io/github/stars/ParsifalC/roundtable?style=social)
+
+</td>
+<td>
+
+#### 📰 [iOS Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
+
+**老司机技术 iOS 周报**
+
+Weekly curated iOS development news, tips, and tutorials from the Swift Old Driver community.
+
+`Swift` `iOS` `Weekly` `Community`
+
+![Stars](https://img.shields.io/github/stars/SwiftOldDriver/iOS-Weekly?style=social)
 
 </td>
 </tr>
