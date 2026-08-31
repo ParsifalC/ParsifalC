@@ -160,43 +160,43 @@ Weekly curated iOS development news, tips, and tutorials from the Swift Old Driv
 </td>
 <td>
 
-#### 🎨 [CPCollectionViewKit](https://github.com/ParsifalC/CPCollectionViewKit)
+#### ⚙️ [codex-flow](https://github.com/ParsifalC/codex-flow)
 
-**有趣的 UICollectionView 布局合集**
+**Codex 多 Agent 智能编排**
 
-Interesting UICollectionView layouts and transitions — circle, wheel, card-style interfaces with smooth animations.
+Capability-aware Codex orchestration that adaptively routes Parent/Worker models and reasoning effort, with deterministic per-task usage telemetry.
 
-`Swift` `Objective-C` `UICollectionView` `Custom Layout`
+`Codex` `Multi-Agent` `Python` `Telemetry`
 
-![Stars](https://img.shields.io/github/stars/ParsifalC/CPCollectionViewKit?style=social)
+![Stars](https://img.shields.io/github/stars/ParsifalC/codex-flow?style=social)
 
 </td>
 </tr>
 <tr>
 <td>
 
-#### 🔥 [Roast Master](https://github.com/ParsifalC/roast-master)
+#### 🛰️ [Moyu VPS Deploy](https://github.com/MoyuFamily/moyu-vps-deploy)
 
-**AI 毒舌吐槽小程序**
+**多 VPS Fleet 编排与部署平台**
 
-An AI-powered roasting mini-program built with Taro 4.x + FastAPI. Get hilariously roasted by AI with style and wit.
+Unified fleet orchestration for Pterodactyl and SSH/systemd hosts, covering Core Runtime delivery, workload lifecycle, and proxy control.
 
-`Taro` `FastAPI` `TypeScript` `Mini Program`
+`Python` `VPS` `Pterodactyl` `systemd`
 
-![Stars](https://img.shields.io/github/stars/ParsifalC/roast-master?style=social)
+![Stars](https://img.shields.io/github/stars/MoyuFamily/moyu-vps-deploy?style=social)
 
 </td>
 <td>
 
-#### 📊 [Xueqiu Monitor](https://github.com/ParsifalC/xueqiu-monitor)
+#### 🔐 [Moyu TG Relay](https://github.com/MoyuFamily/moyu-tg-relay)
 
-**雪球投资组合监控**
+**安全的 Telegram 交互中继服务**
 
-Real-time portfolio monitoring from Xueqiu (Snowball Finance) with IM notifications and read status tracking.
+Production-hardened Telegram relay for one-time OTP, constrained auto-confirmation, and recoverable human fallback in automated workflows.
 
-`Python` `IM Bot` `Finance` `Monitoring`
+`Python` `Telegram` `Telethon` `Docker`
 
-![Stars](https://img.shields.io/github/stars/ParsifalC/xueqiu-monitor?style=social)
+![Stars](https://img.shields.io/github/stars/MoyuFamily/moyu-tg-relay?style=social)
 
 </td>
 </tr>
